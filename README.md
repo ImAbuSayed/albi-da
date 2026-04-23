@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي دايب في هواك
+> ليل ونهار عيوني بتستناك
+> نار الشوق بتسهرني معاك
+> روحي وعمري كله فداك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
