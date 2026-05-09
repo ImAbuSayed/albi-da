@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Albi Da
+
+This log tracks the cryptographic history and versioning for the song **Albi Da** (albi-da).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T12:28:26.854430 | `v1` | `adf0cf5a1051087ed7806c5a6aca7587844064b2a6b6c6bba4b52ff2de16b623` | `a628fae84f971fccef946fbe71ab35ced0cece207e81b730a0bf49b92e004c24` | `2026-05-09_albi-da-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
